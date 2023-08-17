@@ -11,6 +11,7 @@ Table Description:
  
 Sl.No	Column Name	Column Description
 1	Order ID	Unique Identifier For the Order
+
 2	Order Date	Date of the order placed
 3	Ship Date	Date of the order shipped
 4	Ship Mode	Priority Mode of Shipping ( Same Day, First Class, Second Class, Standard Class )
